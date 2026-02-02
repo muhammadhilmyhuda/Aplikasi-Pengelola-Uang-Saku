@@ -1,0 +1,23 @@
+{
+    "saldo": 4963000.0,
+    "riwayat_transaksi": [
+        {
+            "jenis": "Pemasukan",
+            "jumlah": 5000000.0,
+            "keterangan": "Gaji bulan ini",
+            "tanggal": "02-02-2026"
+        },
+        {
+            "jenis": "Pengeluaran",
+            "jumlah": 16000.0,
+            "keterangan": "Makan siang",
+            "tanggal": "02-02-2026"
+        },
+        {
+            "jenis": "Pengeluaran",
+            "jumlah": 21000.0,
+            "keterangan": "Makan malam",
+            "tanggal": "02-02-2026"
+        }
+    ]
+}
